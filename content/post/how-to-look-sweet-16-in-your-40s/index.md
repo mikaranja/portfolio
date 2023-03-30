@@ -25,15 +25,19 @@ So, how can you achieve that youthful glow and energy even as you age? It's simp
 1. **Eat a Balanced Diet**
 
    Eating a healthy and balanced diet is the foundation of a healthy lifestyle. A diet rich in fruits, vegetables, lean protein, and whole grains will provide your body with the nutrients it needs to function properly. Avoid processed foods and sugar, which can lead to inflammation and premature aging.
+
 2. **Exercise Regularly**
 
    Exercise is not only great for your physical health, but also your mental health. Regular exercise can help reduce stress, anxiety, and depression. It can also help you maintain a healthy weight and reduce the risk of chronic diseases. Aim for at least 30 minutes of moderate exercise per day, such as walking, jogging, or yoga.
+
 3. **Get Enough Sleep**
 
    Sleep is crucial for your physical and mental health. Lack of sleep can lead to weight gain, decreased immune function, and mood swings. Aim for at least 7-8 hours of sleep per night, and try to maintain a consistent sleep schedule.
+
 4. **Manage Stress**
 
    Stress can take a toll on your physical and mental health. Learning to manage stress through techniques such as meditation, yoga, or deep breathing can help you feel more relaxed and balanced.
+   
 5. **Stay Hydrated**
 
    Drinking enough water is essential for maintaining good health. Water helps flush toxins out of your body, aids in digestion, and helps keep your skin looking youthful and vibrant. Aim for at least 8-10 glasses of water per day.
