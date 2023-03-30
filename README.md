@@ -48,3 +48,6 @@ We're an open source movement that depends on your support to stay online and th
 * [Version 5.0 (February 2021)](https:&#x2F;&#x2F;wowchemy.com&#x2F;blog&#x2F;version-5.0-february-2021&#x2F;)
 * [Version 5.0 Beta 3 (February 2021)](https:&#x2F;&#x2F;wowchemy.com&#x2F;blog&#x2F;version-5.0-beta-3-february-2021&#x2F;)
 <!--END_SECTION:news-->
+
+# Netlify - Deploy status badge
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7b0416e8-101d-4c49-ae20-3b8e5c437670/deploy-status)](https://app.netlify.com/sites/mikaranja/deploys)
