@@ -1,6 +1,6 @@
 ---
 # Display name
-title: John Karanja
+title: John Michael Karanja
 
 # Full name (for SEO)
 first_name: John
