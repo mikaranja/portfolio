@@ -5,10 +5,7 @@ draft: false
 featured: false
 authors:
   - admin
-tags:
-  - HealthyLiving
-  - HealthyLifestyle
-  - Health
+tags: []
 categories:
   - article
 image:
