@@ -12,7 +12,7 @@ tags:
 categories:
   - article
 image:
-  filename: old-2808492.jpg
+  filename: old_couple.jpg
   focal_point: Smart
   preview_only: false
   caption: Image by Gerd Altmann from Pixabay
