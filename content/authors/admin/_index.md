@@ -28,7 +28,6 @@ role: Digital Skills Trainer | Freelance Writer | Tutor
 # Interests to show in About widget
 interests:
   - Research Writing
-  - Article Writing
   - Data Analytics
 
 # Education to show in About widget
@@ -37,7 +36,7 @@ education:
     - course: Google Data Analytics Professional Certificate
       institution: Coursera
       year: 2023
-    - course: Data Analyst, SQL
+    - course: Data Analyst in SQL
       institution: DataCamp
       year: 2023
     - course: Skills for In-Demand Jobs
