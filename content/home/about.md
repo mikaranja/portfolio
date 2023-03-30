@@ -1,4 +1,4 @@
-<!-- ---
+---
 widget: about
 active: true
 author: admin
@@ -10,4 +10,4 @@ design:
   background:
     image_darken: 0
 ---
-A little about me. -->
+A little about me.
