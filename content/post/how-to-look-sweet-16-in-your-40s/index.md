@@ -10,7 +10,7 @@ categories:
   - article
 image:
   filename: old_couple.jpg
-  focal_point: Smart
+  focal_point: ""
   preview_only: false
   caption: Image by Gerd Altmann from Pixabay
   alt_text: An elderly couple reminiscing their youthful years.
