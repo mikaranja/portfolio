@@ -27,9 +27,9 @@ role: Digital Skills Trainer | Freelance Writer | Tutor
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Research Writing
+  - Article Writing
+  - Data Analytics
 
 # Education to show in About widget
 education:
@@ -45,10 +45,10 @@ education:
       year: 2023
     - course: Bachelor of Science (B.Sc.)
       institution: University of Nairobi
-      year: 2014 - 2019
+      year: 2019
     - course: Kenya Certificate of Secondary Education
       institution: Murang'a High School
-      year: 2009 - 2012
+      year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
