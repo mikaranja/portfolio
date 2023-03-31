@@ -13,33 +13,7 @@ sections:
       text: |-
         Get in touch with me.
       # Contact (add or remove contact options as necessary)
-      social:
-        - icon: envelope
-          icon_pack: fas
-          link: 'mailto:mikaranja@gmail.com'
-          label: Email
-        # - icon: twitter
-        #   icon_pack: fab
-        #   link: https://twitter.com/mikaranja
-        #   label: Follow me on Twitter
-          # display:
-          #   header: true
-        # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-        #   icon_pack: fas
-        #   link: https://scholar.google.com/citations?
-        - icon: github
-          icon_pack: fab
-          link: https://github.com/mikaranja
-          label: GitHub
-        - icon: linkedin
-          icon_pack: fab
-          link: https://www.linkedin.com/in/mikaranja
-          label: LinkedIn
-        - icon: whatsapp
-          icon_pack: fab
-          link: https://api.whatsapp.com/send?phone=+254705872780&text=Hello,%20I%20just%20saw%20your%20portfolio.
-          label: Whatsapp
-    email: mikaranja@gmail.com
+      email: mikaranja@gmail.com
       phone: +254 705 872 780
     #   appointment_url: 'https://calendly.com'
       address:
@@ -53,19 +27,22 @@ sections:
     #   office_hours:
     #     - 'Monday 10:00 to 13:00'
     #     - 'Wednesday 09:00 to 10:00'
-      contact_links:
+      social:
         - icon: github
           icon_pack: fab
-          name: View my GitHub
-          link: 'https://github.com/mikaranja'
+          # name: View my GitHub
+          link: https://github.com/mikaranja
+          label: GitHub
         - icon: linkedin
           icon_pack: fab
-          name: View my LinkedIn
-          link: 'https://www.linkedin.com/in/mikaranja'
+          # name: View my LinkedIn
+          link: https://www.linkedin.com/in/mikaranja
+          label: LinkedIn
         - icon: whatsapp
           icon_pack: fab
-          name: WhatsApp Me
-          link: 'https://api.whatsapp.com/send?phone=+254705872780&text=Hello,%20I%20just%20saw%20your%20portfolio.'
+          # name: WhatsApp Me
+          link: https://api.whatsapp.com/send?phone=+254705872780&text=Hello,%20I%20just%20saw%20your%20portfolio.
+          label: Whatsapp
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
