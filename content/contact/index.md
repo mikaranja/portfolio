@@ -11,7 +11,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Get in touch with me.
+        
       # Contact (add or remove contact options as necessary)
       # email: mikaranja@gmail.com
       # phone: +254 705 872 780
