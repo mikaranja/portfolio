@@ -13,36 +13,33 @@ sections:
       text: |-
         Get in touch with me.
       # Contact (add or remove contact options as necessary)
-      email: mikaranja@gmail.com
-      phone: +254 705 872 780
-    #   appointment_url: 'https://calendly.com'
-      address:
-        # street: 450 Serra Mall
-        city: Nairobi
-        region: KE
-        # postcode: '94305'
-        country: KENYA
-        country_code: KE
-    #   directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-    #   office_hours:
-    #     - 'Monday 10:00 to 13:00'
-    #     - 'Wednesday 09:00 to 10:00'
-      social:
-        - icon: github
-          icon_pack: fab
-          # name: View my GitHub
-          link: https://github.com/mikaranja
-          label: GitHub
-        - icon: linkedin
-          icon_pack: fab
-          # name: View my LinkedIn
-          link: https://www.linkedin.com/in/mikaranja
-          label: LinkedIn
-        - icon: whatsapp
-          icon_pack: fab
-          # name: WhatsApp Me
-          link: https://api.whatsapp.com/send?phone=+254705872780&text=Hello,%20I%20just%20saw%20your%20portfolio.
-          label: Whatsapp
+      # email: mikaranja@gmail.com
+      # phone: +254 705 872 780
+      # appointment_url: 'https://calendly.com'
+      # address:
+      #   street: Nairobi
+      #   city: Nairobi
+      #   region: KE
+      #   postcode: '20746-00202'
+      #   country: KENYA
+      #   country_code: KE
+      # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+      # office_hours:
+      #   - 'Monday 10:00 to 13:00'
+      #   - 'Wednesday 09:00 to 10:00'
+      # contact_links:
+      #   - icon: twitter
+      #     icon_pack: fab
+      #     name: DM Me
+      #     link: 'https://twitter.com/mikaranja'
+      #   - icon: skype
+      #     icon_pack: fab
+      #     name: Skype Me
+      #     link: ''
+      #   - icon: video
+      #     icon_pack: fas
+      #     name: Zoom Me
+      #     link: 'https://zoom.com'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
