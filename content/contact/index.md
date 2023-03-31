@@ -13,7 +13,33 @@ sections:
       text: |-
         Get in touch with me.
       # Contact (add or remove contact options as necessary)
-      email: mikaranja@gmail.com
+      social:
+        - icon: envelope
+          icon_pack: fas
+          link: 'mailto:mikaranja@gmail.com'
+          label: Email
+        # - icon: twitter
+        #   icon_pack: fab
+        #   link: https://twitter.com/mikaranja
+        #   label: Follow me on Twitter
+          # display:
+          #   header: true
+        # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+        #   icon_pack: fas
+        #   link: https://scholar.google.com/citations?
+        - icon: github
+          icon_pack: fab
+          link: https://github.com/mikaranja
+          label: GitHub
+        - icon: linkedin
+          icon_pack: fab
+          link: https://www.linkedin.com/in/mikaranja
+          label: LinkedIn
+        - icon: whatsapp
+          icon_pack: fab
+          link: https://api.whatsapp.com/send?phone=+254705872780&text=Hello,%20I%20just%20saw%20your%20portfolio.
+          label: Whatsapp
+    email: mikaranja@gmail.com
       phone: +254 705 872 780
     #   appointment_url: 'https://calendly.com'
       address:
@@ -49,7 +75,7 @@ sections:
           id:
         netlify:
           # Enable CAPTCHA challenge to reduce spam?
-          captcha: true
+          captcha: false
     design:
       columns: '2'
 ---
