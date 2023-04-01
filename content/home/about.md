@@ -2,7 +2,7 @@
 widget: about
 active: true
 author: admin
-widget_id: Test
+widget_id: about_me
 headless: true
 weight: 20
 title: About Me
