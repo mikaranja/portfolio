@@ -1,5 +1,5 @@
 <footer class="site-footer">
-  <!-- {{ if or (site.GetPage "terms.md") (site.GetPage "privacy.md") }}
+  {{ if or (site.GetPage "terms.md") (site.GetPage "privacy.md") }}
   <p class="powered-by">
     {{ with site.GetPage "privacy.md" }}
       {{ printf "<a href=\"%s\">%s</a>" .RelPermalink .Title | safeHTML }}
@@ -13,19 +13,19 @@
 
   <p class="powered-by">
     {{ with site.Copyright }}{{ replace . "{year}" now.Year | markdownify}}{{ end }}
-  </p> -->
+  </p>
 
   {{/* Display copyright license. */}}
   {{ partial "site_footer_license" . }}
 
-  <!-- <p class="powered-by">
+  <p class="powered-by">
     {{ if not site.Params.i_am_a_sponsor }}
     Published with
     <a href="https://wowchemy.com" target="_blank" rel="noopener">Wowchemy</a>
     — the free, 
     <a href="https://github.com/wowchemy/wowchemy-hugo-themes" target="_blank" rel="noopener">open source</a>
     website builder that empowers creators.
-    {{ end }} -->
+    {{ end }}
 
     {{ if not (in (slice "book" "docs" "updates") .Type) }}
     <span class="float-right" aria-hidden="true">
