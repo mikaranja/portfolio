@@ -12,4 +12,7 @@ view: 2
 header:
   caption: ''
   image: ''
+
+# Adding table of content
+toc: true
 ---
