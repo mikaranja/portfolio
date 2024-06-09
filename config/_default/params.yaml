@@ -18,11 +18,11 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: ''
+    description: 'Digital Skills Trainer | Freelance Writer & Tutor | Junior Data Analyst'
     twitter: ''
   analytics:
-    google_analytics: ''
-    google_tag_manager: ''
+    google_analytics: 'G-PM0KBBJ8PR'
+    google_tag_manager: 'GTM-MTRW299V'
     baidu_tongji: ''
   verification:
     google: ''
@@ -46,7 +46,7 @@ footer:
   copyright:
     notice: '© {year} John Karanja. This work is licensed under {license}'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
