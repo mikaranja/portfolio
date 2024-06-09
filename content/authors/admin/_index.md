@@ -15,7 +15,8 @@ last_name: Karanja
 superuser: true
 
 # Role/position/tagline
-role: Digital Skills Trainer | Freelance Writer | Tutor
+role: Digital Skills Trainer | Freelance Writer & Tutor | Data Analyst
+bio: Curious mind meets data enthusiast.
 
 # Organizations/Affiliations to show in About widget
 # organizations:
@@ -27,27 +28,27 @@ role: Digital Skills Trainer | Freelance Writer | Tutor
 
 # Interests to show in About widget
 interests:
-  - Research Writing
+  - Digital Skilling
+  - Freelance Writing
+  - Freelance Tutoring
   - Data Analytics
+  - Technology
 
 # Education to show in About widget
 education:
   courses:
-    - course: Google Data Analytics Professional Certificate
+    - course: Google Advanced Data Analytics Certificate
       institution: Coursera
-      year: 2023
+      year: 2024
     - course: Data Analyst in SQL
       institution: DataCamp
       year: 2023
-    - course: Skills for In-Demand Jobs
-      institution: LinkedIn Learning
+    - course: Google Data Analytics Certificate
+      institution: Coursera
       year: 2023
     - course: Bachelor of Science (B.Sc.)
       institution: University of Nairobi
       year: 2019
-    - course: Kenya Certificate of Secondary Education
-      institution: Murang'a High School
-      year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -93,8 +94,11 @@ email: ''
 highlight_name: true
 ---
 
-I am a highly dedicated and experienced digital skills trainer and freelance writer/tutor based in Nairobi, Kenya. I have been thriving in the freelance market since 2016, with a focus on the research writing niche. I am passionate about the success of my clients and associates and consistently demonstrates this through my commitment to excellence, strong communication skills, and effective project management.
+I'm John Karanja, a passionate professional with a diverse background in freelancing, training, and data analytics. 
 
-With a proven track record of delivering results and building strong relationships, I am valuable asset to any team. If you're looking for a professional with a deep understanding of the digital skills and writing industries, I am the ideal candidate to consider.
+My journey began in [freelance writing and tutoring](https://mikaranja.com/tag/freelance/), where I honed my research and synthesis skills, helping students master complex topics and excel in their studies. Eager to equip others with digital skills, I transitioned to being a [Digital Skills Trainer](https://mikaranja.com/tag/workshop/), using my training expertise and tech fluency to empower individuals and organizations to thrive in the digital landscape.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}curriculum vitae (CV).{{< /staticref >}}
+Driven by a thirst for knowledge and a knack for identifying patterns, I embraced the world of data analytics. As a [Data Analyst](https://mikaranja.com/tag/data_analytics/), I leverage my analytical skills and data-driven mindset to extract meaningful insights from complex datasets, contributing to informed decision-making and effective strategic planning.
+
+Beyond my professional pursuits, I'm passionate about fostering learning and collaborating with individuals who share a love for continuous growth and innovation. Whether you're looking to expand your digital skillset, uncover hidden insights in your data, or simply connect with a like-minded individual, I'd love to hear from you!
+{style="text-align: justify;"}
