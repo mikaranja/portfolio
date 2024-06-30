@@ -15,9 +15,7 @@ location: Virtual via Microsoft Teams
 date: 2023-09-08T10:00:29.758Z
 date_end: 2023-09-08T11:00:00.000Z
 all_day: false
-links:
-  - url: https://forms.aweber.com/form/97/536500397.htm
-    name: Newsletter
+links: []
 event: Workshop Registration
 event_url: https://bit.ly/44JL9Op
 publishDate: 2023-09-06T14:05:29.779Z
