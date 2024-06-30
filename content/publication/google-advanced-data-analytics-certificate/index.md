@@ -11,7 +11,7 @@ image:
   focal_point: Smart
   preview_only: false
   caption: Certificate of Completion
-date: 2023-08-17T10:57:37.044Z
+date: 2024-05-18T13:57:00.000Z
 ---
 Issued on: 18 MAY 2024 | Issued by: Coursera
 
