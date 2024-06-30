@@ -17,7 +17,7 @@ main:
     url: 'event/'
     weight: 40
   - name: Credits
-    url: 'credit/'
+    url: 'publication/'
     weight: 50
   - name: Contact
     url: 'contact/'
