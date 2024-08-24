@@ -43,6 +43,7 @@ permalinks:
   tags: '/tag/:slug/'
   categories: '/category/:slug/'
   publication_types: '/publication-type/:slug/'
+  certificates: '/certificate/:slug/'
 disableAliases: true
 outputs:
   home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
@@ -57,6 +58,7 @@ taxonomies:
   category: categories
   publication_type: publication_types
   author: authors
+  certificate: certificates
 markup:
   _merge: deep
 related:
