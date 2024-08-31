@@ -36,7 +36,7 @@ education:
     - course: Data Analyst in SQL
       institution: DataCamp
       year: 2023
-    - course: Bachelor of Science (B.Sc.)
+    - course: Bachelor of Science in Chemistry
       institution: University of Nairobi
       year: 2019
 superuser: true
