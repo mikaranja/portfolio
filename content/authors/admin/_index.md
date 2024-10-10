@@ -27,6 +27,9 @@ social:
     label: Whatsapp
 education:
   courses:
+    - course: Cybersecurity Training for Teachers
+      institution: Commonwealth of Learning
+      year: 2024    
     - course: Google Advanced Data Analytics Certificate
       institution: Coursera
       year: 2024
