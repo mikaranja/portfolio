@@ -15,4 +15,4 @@ date: 2024-05-03T13:57:00.000Z
 ---
 Issued on: 03 MAY 2024 | Issued by: Commonwealth of Learning (COL)
 
-Verify: https://mooc4dev.org/v/66420e15c2ddb
+**LET'S TALK**: https://calendly.com/mikaranja/30min

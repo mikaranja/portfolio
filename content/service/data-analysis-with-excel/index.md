@@ -15,4 +15,4 @@ date: 2023-07-01T16:05:00.000Z
 ---
 Issued on: 1 JULY 2023 | Issued by: DataCamp
 
-V﻿erify: https://www.datacamp.com/completed/statement-of-accomplishment/track/450ea339dc20c665423e3f708f74c6afe097b1be
+**LET'S TALK**: https://calendly.com/mikaranja/30min
