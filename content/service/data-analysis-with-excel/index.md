@@ -1,5 +1,5 @@
 ---
-title: Data Analyst in SQL
+title: Data Analysis with Excel
 publication_types:
   - "0"
 draft: false

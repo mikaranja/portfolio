@@ -1,5 +1,5 @@
 ---
-title: Cybersecurity Training for Teachers
+title: Data Analysis with Python
 publication_types:
   - "0"
 draft: false
