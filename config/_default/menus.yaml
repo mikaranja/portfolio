@@ -7,18 +7,18 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Posts
-    url: 'post/'
-    weight: 20
+  # - name: Posts
+  #   url: 'post/'
+  #   weight: 20
   - name: Projects
     url: 'project/'
     weight: 30
   - name: Events
     url: 'event/'
     weight: 40
-  - name: Certificates
-    url: 'certificate/'
-    weight: 50
+  # - name: Certificates
+  #   url: 'certificate/'
+  #   weight: 50
   - name: Contact
     url: 'contact/'
     weight: 60
