@@ -11,7 +11,7 @@ image:
   focal_point: Smart
   preview_only: false
   caption: Certificate of Completion
-date: 2024-10-18T17:57:00.000Z
+date: 2023-08-14T13:57:00.000Z
 ---
 Issued on: 18 OCTOBER 2024 | Issued by: LinkedIn Learning
 
